@@ -1,5 +1,5 @@
 # Strict typing components
-from typing import Optional, Union
+from typing import Optional
 # Kernels
 
 class Kernel:
