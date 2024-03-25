@@ -16,7 +16,7 @@ Inheritance Project - a hirearchy of Operating System Kernels
 
 ━━ (DOS)
      ┆
-━━━━ NT
+  ━━ NT
 
 '''
 print(tree)
